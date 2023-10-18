@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from mongopass import mongopass
 
 def create_app():
-    app = Flask("__main__")
+    app = Flask("app")
 
     # MongoDB Configuration
     client = MongoClient(mongopass)
