@@ -1,0 +1,1 @@
+mongopass = 'mongodb+srv://sudo_Pepe:6cwzrxkrRbDSur1l@cluster0.rtcu0kq.mongodb.net/?retryWrites=true&w=majority'
